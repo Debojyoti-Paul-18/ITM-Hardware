@@ -57,10 +57,10 @@ This project implements a traffic light control system for intersections using t
 
 ## Traffic Light Phases
 
-1. Phase 0: North-South Green, East-West Red
-2. Phase 1: North-South Yellow, East-West Red
-3. Phase 2: North-South Red, East-West Green
-4. Phase 3: North-South Red, East-West Yellow
+1. **Phase 0**: North-South Green, East-West Red
+2. **Phase 1**: North-South Yellow, East-West Red
+3. **Phase 2**: North-South Red, East-West Green
+4. **Phase 3**: North-South Red, East-West Yellow
 
 ## Future Improvements
 
@@ -72,8 +72,4 @@ This project implements a traffic light control system for intersections using t
 
 ## License
 
-[Add your chosen license here]
-
-## Contributing
-
-[Add contribution guidelines if you want to make this project open for contributions]
+### MIT License
